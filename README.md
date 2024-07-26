@@ -1,8 +1,6 @@
-Here's a sample README file for the Django chat application project:
 
----
 
-# MyProject - Django Chat Application
+ MyProject - Django Chat Application
 
 Welcome to **MyProject**, a chat application built using Django by **Ishandeep Singh**. This application allows users to communicate in real-time through text messages, providing a seamless and user-friendly chatting experience.
 
